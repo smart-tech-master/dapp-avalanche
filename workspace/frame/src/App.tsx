@@ -7,7 +7,7 @@ enum View {
   Server,
   Connector,
   Contract,
-  Logs, 
+  Logs,
 }
 
 const viewLinks = {
